@@ -9,7 +9,7 @@ export class InicioPage {
         return `
         <div class="page inicio-page">
             <section class="hero">
-                <h1>¡Bienvenido a nuestra SPA!</h1>
+                <h1>¡Bienvenido a nuestra SPA! prueba de git</h1>
                 <p>Esta es una Single Page Application construida con Vite y JavaScript Vanilla.</p>
             </section>
             <section class="counter-section">
